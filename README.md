@@ -19,7 +19,7 @@ And then execute:
 Add to your app/assets/javascripts/application.js
 
 ```
-    //= require jquery.gridster
+    //= require "jquery.gridster"
 ```
 
 And to your app/assets/stylesheets/application.css.sass or application.css.scss
